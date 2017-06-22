@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/admin/Desktop/Spinning A ball/Assets/Scenes/CricketScene.unity
+  isLoaded: 1
+  isActive: 1
